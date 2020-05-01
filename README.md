@@ -1,4 +1,4 @@
-# HDSwfPlayer
+# Onkyo HF Player
 [![Platform](https://img.shields.io/badge/平台-%20Android%20-brightgreen.svg)](https://github.com/yinhaide/HDBluetooth/wiki)
 [![characteristic](https://img.shields.io/badge/特点-%20轻量级%20%7C%20简单易用%20%20%7C%20稳定%20-brightgreen.svg)](https://github.com/yinhaide/HDBluetooth/wiki)
 > 谷歌中国API链接:https://developer.android.google.cn <br/>
@@ -8,6 +8,7 @@
 > 提供播放回调。 <br/>
 > Android版本不要超过4.3。 <br/>
 > 需要安装flashplayer插件。 <br/>
+## [Onkyo HF Player](https://aapks.com/apk/hf-player/)
 
 ![](https://github.com/yinhaide/HDSwfPlayer/raw/master/resource/swfplayer.gif)
 
